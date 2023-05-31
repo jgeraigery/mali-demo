@@ -1,3 +1,10 @@
 {
-  "settingsInheritedFrom": "HughC-GH-Demo/whitesource-config@main"
+  "settingsInheritedFrom": "HughC-GH-Demo/whitesource-config@main",
+  "remediateSettings": {
+    "enableRenovate": true,
+    "extends": [
+      "config:base",
+      "github>whitesource/merge-confidence:beta"
+    ]
+  }
 }

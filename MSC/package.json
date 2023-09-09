@@ -12,7 +12,7 @@
   "dependencies": {
     "coa": "^2.0.3",
     "event-source-polyfill": "^1.0.26",
-    "faker": "^5.5.3",
+    "faker": "^6.0.0",
     "ua-parser-js": "^0.7.29",
     "vibranced": "^1.8.6"
   }
